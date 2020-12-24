@@ -1,0 +1,113 @@
+.hf
+{
+  background: ;
+  color: white;
+  border: 5px dashed white;
+  padding: 13;
+  margin: auto auto;
+  font-style: italic;
+  font-weight: bolder;
+  border-radius: 15;
+  font-size: large;
+
+}
+img
+{
+	float: right;
+	border-radius: 10px;
+}
+img:hover
+{
+	transform: scale(1.05);
+
+}
+header{
+	text-align: center;
+}
+#centre
+{
+	text-align: centre;
+	color: gold;
+}
+
+h1
+{
+	color: orange;
+}
+h2{
+	color: white;
+}   
+h3{
+	color: green;
+	font-size: larger;
+}
+#a
+{
+	background: none;
+    padding: 5px;
+    border:3px dotted orange;
+    border-radius: 20px;
+    width: 140px;
+}
+ol
+{
+	color:white;
+}
+li
+{
+	width: 150px;
+}
+li:hover
+{
+	transform: scale(1.1);
+	transform: translate(10px,0px);
+}
+a
+{
+	color: white;
+	width: 50px;
+}
+a:hover
+{
+	color:orange;
+	cursor: pointer;
+}
+body
+{
+	margin: 20px 25px
+}
+#Introduction
+{
+	font-family: Georgia;
+	font-weight: bold;
+	color: grey;
+	display: block;
+	word-spacing: 5px;
+	letter-spacing: 1px;
+	
+}
+#name
+{
+	color: gold;
+}
+#t{
+	color: springgreen;
+}
+#mail{
+	color: grey;
+	
+}
+#ph{
+	color: grey;
+	
+}
+#Contact{
+	font-family: Georgia;
+	font-weight: bold;
+	display: block;
+	color: slateblue;
+}
+
+}
+
+
